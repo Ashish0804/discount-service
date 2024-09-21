@@ -25,6 +25,7 @@ This service provides REST endpoints to manage `Coupons` and evaluate a cart aga
 15. **[Not Implemented]** Concurrency Handling for usage count.
 16. **[Not Implemented]** Decoupling objects internally with the request objects.
 17. **[Not Implemented]** Free product discount.
+18. **[Not Implemented]** Pagination to APIs.
 
 ### Examples
 #### GET /coupons
